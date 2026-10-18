@@ -1,0 +1,25 @@
+
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# QuickSave private/local data
+.quicksave.lock
+.quicksave_recent.json
+quicksave_local_history.json
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
