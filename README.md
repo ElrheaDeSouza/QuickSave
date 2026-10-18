@@ -71,11 +71,9 @@ QuickSave runs on Windows. The application sends data to a locally running n8n w
 ### 1. Clone the repository
 
 ```powershell
-git clone https://github.com/YOUR-USERNAME/quicksave-desktop.git
+git clone https://github.com/ElrheaDeSouza/QuickSave.git
 cd quicksave-desktop
 ```
-
-Replace `YOUR-USERNAME` with your GitHub username.
 
 ### 2. Create a virtual environment
 
